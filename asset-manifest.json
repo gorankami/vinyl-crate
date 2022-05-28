@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/static/js/main.6ae44b45.js",
-    "static/js/787.2897f0ce.chunk.js": "/static/js/787.2897f0ce.chunk.js",
-    "index.html": "/index.html",
-    "main.6ae44b45.js.map": "/static/js/main.6ae44b45.js.map",
-    "787.2897f0ce.chunk.js.map": "/static/js/787.2897f0ce.chunk.js.map"
+    "main.js": "/vinyl-crate/static/js/main.1c4cca2f.js",
+    "static/js/787.2897f0ce.chunk.js": "/vinyl-crate/static/js/787.2897f0ce.chunk.js",
+    "index.html": "/vinyl-crate/index.html",
+    "main.1c4cca2f.js.map": "/vinyl-crate/static/js/main.1c4cca2f.js.map",
+    "787.2897f0ce.chunk.js.map": "/vinyl-crate/static/js/787.2897f0ce.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.6ae44b45.js"
+    "static/js/main.1c4cca2f.js"
   ]
 }
